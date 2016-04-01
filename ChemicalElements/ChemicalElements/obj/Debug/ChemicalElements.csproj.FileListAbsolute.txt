@@ -1,0 +1,6 @@
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\bin\Debug\ChemicalElements.exe.config
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\bin\Debug\ChemicalElements.exe
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\bin\Debug\ChemicalElements.pdb
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\obj\Debug\ChemicalElements.csprojResolveAssemblyReference.cache
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\obj\Debug\ChemicalElements.exe
+c:\users\elya\documents\visual studio 2013\Projects\ChemicalElements\ChemicalElements\obj\Debug\ChemicalElements.pdb
